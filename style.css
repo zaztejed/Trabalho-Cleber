@@ -1,0 +1,25 @@
+body
+{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: x-large;
+    font-style: oblique;
+    text-align: center;
+    
+ }
+
+ footer
+ {
+    color: rgb(255, 70, 255);
+    font-style: normal;
+    font-size: xx-large;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+ }
+
+ a
+ {
+    font-style: normal;
+    color: black;
+ }
